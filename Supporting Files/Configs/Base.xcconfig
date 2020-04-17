@@ -1,0 +1,10 @@
+//
+//  Base.xcconfig
+//  Dota Hero
+//
+//  Created by Nanda Julianda Akbar on 16/04/20.
+//  Copyright © 2020 Nanda. All rights reserved.
+//
+
+BASE_APP_NAME=Dota Hero
+BASE_BUNDLE_ID=com.nanda.dotahero

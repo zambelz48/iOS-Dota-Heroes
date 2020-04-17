@@ -1,0 +1,15 @@
+//
+//  Base.xcconfig
+//  Dota Hero
+//
+//  Created by Nanda Julianda Akbar on 16/04/20.
+//  Copyright © 2020 Nanda. All rights reserved.
+//
+
+#include "Base.xcconfig"
+
+APP_NAME = $(BASE_APP_NAME) (STG)
+APP_BUNDLE_ID = $(BASE_BUNDLE_ID).stg
+APP_VERSION = 1.0.0 (STG)
+
+BASE_API_URL = https:/$()/api.opendota.com
